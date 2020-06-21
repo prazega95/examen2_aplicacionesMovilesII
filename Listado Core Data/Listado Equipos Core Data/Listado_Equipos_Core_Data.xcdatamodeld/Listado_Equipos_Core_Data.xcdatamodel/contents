@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="15702" systemVersion="19D76" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="Plan" representedClassName="Plan" syncable="YES" codeGenerationType="class">
+        <attribute name="codigo" optional="YES" attributeType="String"/>
+        <attribute name="mb" optional="YES" attributeType="String"/>
+        <attribute name="minutos" optional="YES" attributeType="String"/>
+        <attribute name="planes" optional="YES" attributeType="String"/>
+        <attribute name="precio" optional="YES" attributeType="String"/>
+        <attribute name="rpm" optional="YES" attributeType="String"/>
+        <attribute name="sms" optional="YES" attributeType="String"/>
+    </entity>
+    <elements>
+        <element name="Plan" positionX="-243" positionY="-27" width="128" height="148"/>
+    </elements>
+</model>
